@@ -34,6 +34,6 @@ deploy:
         upgradeOnChange: false
         skipBuildDependencies: true
         artifactOverrides:
-          mgmt.image: openpolicyagent/kube-mgmt
+          mgmt.image: tehlersexpedia/kube-mgmt
         imageStrategy:
           helm: {}
