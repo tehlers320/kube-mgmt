@@ -211,3 +211,4 @@ To release a new version - just create [GitHub release](https://github.com/open-
 with corresponding tag, following semantic version converntion.
 
 As soon as tag will be pushed - CI pipeline will build and publish all artifacts.
+
