@@ -4,7 +4,7 @@ metadata:
   name: opa-kube-mgmt
 build:
   artifacts:
-    - image: openpolicyagent/kube-mgmt
+    - image: tehlersexpedia/kube-mgmt
       ko:
         fromImage: alpine:3.16.2
         main: ./cmd/kube-mgmt/.../
